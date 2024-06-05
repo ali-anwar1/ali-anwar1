@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 ## 😀 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alianwar&theme=radial&show_icons=true&hide_border=false&layout=compact" alt="dev-alianwar's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alianwar&show_icons=true&hide_border=false&layout=compact&theme=radial" alt="dev-alianwar's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-alianwar&theme=radial&show_icons=true&hide_border=false&count_private=true" alt="dev-alianwar's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dev-alianwar&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="dev-alianwar's GitHub Stats" />
