@@ -1,7 +1,7 @@
 ## Hi there 👋 | Welcome to my Profile
 
 ## About Me 
-I'm a computer science undergraduate with a burning passion for data science and machine learning!
+I'm a full stack web developer with 8 plus years working experience with cutting edge technologies. 
 
 **My Expertise:**
 - Programming with Typescript, Javascript, Node.js, PHP and PostgreSQL 
@@ -9,9 +9,9 @@ I'm a computer science undergraduate with a burning passion for data science and
 - Integeration bussinsess to bussiness APIs and workflows
 
 **Currently, I'm:**
-- Improving my Golang and Python Skills
-- Enhancing my machine learning skills with hands-on projects
 - Exploring Power Automate, Service Now and Zapier.
+- Improving my Golang and Python Skills
+
 
 ## Let's Connect!
 I find great joy in connecting with like-minded individuals and sharing insights on the latest in tech. 
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 -->
 
 ## 😀 My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alianwar&theme=radial&show_icons=true&hide_border=false&layout=compact" alt="dev-alianwar's GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alianwar&show_icons=true&hide_border=false&theme=radial" alt="dev-alianwar's GitHub Stats" />
 
