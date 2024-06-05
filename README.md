@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-alianwar&theme=default&hide_border=false" alt="dev-alianwar's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alianwar&theme=default&show_icons=true&hide_border=false&layout=compact" alt="dev-alianwar's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=dev-alianwar&theme=default&show_icons=true&hide_border=false&count_private=true" alt="dev-alianwar's GitHub Stats" />
