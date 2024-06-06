@@ -1,7 +1,7 @@
 ## Welcome to my Profile
 
 ## About Me 
-I'm ALi Anwar. I am a full stack web developer with 8 plus years working experience with cutting edge technologies like Next.js, React.js, Node.js and PostgreSQL.
+I'm Ali Anwar. I am a full stack web developer with 8 plus years working experience with cutting edge technologies like Next.js, React.js, Node.js and PostgreSQL.
 
 **My Expertise:**
 - Programming with Typescript, Javascript, Node.js, PHP and PostgreSQL 
