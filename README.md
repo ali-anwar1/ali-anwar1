@@ -4,13 +4,14 @@
 I'm Ali Anwar. I am a full stack web developer with 8 plus years working experience with cutting edge technologies like Next.js, React.js, Node.js and PostgreSQL.
 
 **My Expertise:**
-- Programming with Typescript, Javascript, Node.js, PHP and PostgreSQL 
+- Web3 expertise: Solidity Smart Contract Expert
+- Programming with NextJs, ReactJs, Typescript, Javascript, Python & FastAPI, NodeJs & NestJs, PHP, PostgreSQL and MongoDB 
 - Building enterprise level solutions
 - Integeration bussinsess to bussiness APIs and workflows
 
 **Currently, I'm:**
 - Exploring Power Automate, Service Now and Zapier.
-- Improving my Golang and Python Skills
+- Improving my Generative AI Skills
 
 
 ## Let's Connect!
