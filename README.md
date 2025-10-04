@@ -1,11 +1,12 @@
 ## Welcome to my Profile
 
 ## About Me 
-I'm Ali Anwar. I am a full stack web developer with 8 plus years working experience with cutting edge technologies like Next.js, React.js, Node.js and PostgreSQL.
+I'm Ali Anwar. I am a full stack web developer with 9 plus years working experience with cutting edge technologies like Python, Java, Golang, NodeJs, ReactJs and NextJs with a strong background of PHP. I have worked with SQL (MySQL, MSSQL and PostgreSQL) and NoSQL (MongoDB, Redis) databases with different API protocols like GraphQL, REST and SOAP. 
 
 **My Expertise:**
+- Programming with NextJs, ReactJs, Typescript, Javascript, Python (Django REST Framwork (DRF), FastAPI), NodeJs (NestJs, ExpressJs and KoaJs), PHP (PHP Laravel), PostgreSQL, MongoDB and Redis
+- Message broklers like Apache Kafka and RabbitMQ
 - Web3 expertise: Solidity Smart Contract Expert
-- Programming with NextJs, ReactJs, Typescript, Javascript, Python & FastAPI, NodeJs & NestJs, PHP, PostgreSQL and MongoDB 
 - Building enterprise level solutions
 - Integeration bussinsess to bussiness APIs and workflows
 
@@ -41,4 +42,4 @@ Here are some ideas to get you started:
 ## 😀 My GitHub Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alianwar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="dev-alianwar's GitHub Stats" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-alianwar&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="dev-alianwar's GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=dev-alianwar&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="dev-alianwar's GitHub Stats" /> -->
