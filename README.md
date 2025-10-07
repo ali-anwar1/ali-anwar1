@@ -10,7 +10,7 @@ On the frontend, I primarily work with Next.js, React, and Electron, with prior 
 I have hands-on experience with both SQL (PostgreSQL, MySQL, MSSQL) and NoSQL (MongoDB, Redis) databases and have built APIs following GraphQL, REST, and SOAP standards.
 
 
-**🧠 My Expertise:**
+**🧠 My Expertise
 - Full-stack development with Next.js, React, TypeScript, Node.js, Python (DRF, FastAPI), PHP (Laravel)
 - Database design and optimization with PostgreSQL, MongoDB, and RedisbitMQ
 - Message brokers: Apache Kafka and RabbitMQ
@@ -18,7 +18,7 @@ I have hands-on experience with both SQL (PostgreSQL, MySQL, MSSQL) and NoSQL (M
 - Building enterprise-grade applications and scalable architectures
 - Business-to-business API integrations and workflow automation
 
-** 🚀 Currently, I'm:**
+**🚀 Currently, I'm
 - Advancing my skills in Generative AI and Prompt Engineering, experimenting with tools like Cursor
 - Deep diving into Web3 technologies and Solidity
 - Exploring automation ecosystems with n8n, Power Automate, and ServiceNow
