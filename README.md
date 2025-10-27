@@ -28,7 +28,7 @@ I have hands-on experience with both SQL (PostgreSQL, MySQL, MSSQL) and NoSQL (M
 I find great joy in connecting with like-minded individuals and sharing insights on the latest in tech. 
 Find me on LinkedIn for a professional chat and collaboration opportunities.
 <p align="center">
-<a href="https://www.linkedin.com/in/ali-anwar-6b128241">
+<a href="https://www.linkedin.com/in/ali-anwar-1">
   <img src="https://img.shields.io/badge/LinkedIn-Ali%20Anwar-blue?style=flat&logo=linkedin" alt="LinkedIn">
 </a>
 </p>
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 -->
 
 ## 😀 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alianwar&theme=radical&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" alt="dev-alianwar's GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-anwar1&theme=radical&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" alt="dev-alianwar's GitHub Stats" /> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dev-alianwar&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true&cache_seconds=1800" alt="dev-alianwar's GitHub Stats" /> 
