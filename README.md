@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ## 😀 My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-anwar1&theme=radical&show_icons=true&hide_border=false&layout=compact&cache_seconds=2000" alt="ali-anwar1's GitHub Stats" /> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ali-anwar1&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true&cache_seconds=2000" alt="ali-anwar1's GitHub Stats" /> 
+-->
