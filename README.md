@@ -34,7 +34,7 @@ Find me on LinkedIn for a professional chat and collaboration opportunities.
 </p>
 
 <!--
-**dev-alianwar/dev-alianwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ali-anwar1/ali-anwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 -->
 
 ## 😀 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-anwar1&theme=radical&show_icons=true&hide_border=false&layout=compact&cache_seconds=2000" alt="dev-alianwar's GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-anwar1&theme=radical&show_icons=true&hide_border=false&layout=compact&cache_seconds=2000" alt="ali-anwar1's GitHub Stats" /> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali-anwar1&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true&cache_seconds=2000" alt="dev-alianwar's GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=ali-anwar1&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true&cache_seconds=2000" alt="ali-anwar1's GitHub Stats" /> 
