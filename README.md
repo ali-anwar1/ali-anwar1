@@ -1,7 +1,7 @@
 ## Welcome to my Profile
 
 ## 👋 About Me
-I’m language agnostic developer with over 9 years of professional experience, working with different languages such Python, JavaScript/TypeScript, Java, Solidity, Golang and PHP.
+I’m security researcher, smart contract developer with over 9 years of professional experience in fullstack web and mobile development, working with different languages such Python, JavaScript/TypeScript, Java, Solidity, Golang and PHP.
 
 I’ve developed scalable solutions using frameworks such as FastAPI, Django REST Framework, Gin, NestJS, Express, and Koa, as well as Laravel and CodeIgniter (PHP).
 
@@ -14,7 +14,7 @@ I have hands-on experience with both SQL (PostgreSQL, MySQL, MSSQL) and NoSQL (M
 - Full-stack development with Next.js, React, TypeScript, Node.js, Python (DRF, FastAPI), PHP (Laravel)
 - Database design and optimization with PostgreSQL, MongoDB, and RedisbitMQ
 - Message brokers: Apache Kafka and RabbitMQ
-- Web3: Solidity Smart Contract development
+- Web3: Vyper and Solidity Smart Contract development
 - Building enterprise-grade applications and scalable architectures
 - Business-to-business API integrations and workflow automation
 
