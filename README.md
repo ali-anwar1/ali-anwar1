@@ -31,8 +31,10 @@ Find me on LinkedIn for a professional chat and collaboration opportunities.
 <a href="https://www.linkedin.com/in/ali-anwar-1">
   <img src="https://img.shields.io/badge/LinkedIn-Ali%20Anwar-blue?style=flat&logo=linkedin" alt="LinkedIn">
 </a>
+  <a href="https://www.upwork.com/freelancers/~016a30e91c70fa7798">
+  <img src="https://img.shields.io/badge/Upwork-Ali%20Anwar-success?style=flat&logo=upwork" alt="Upwork">
+</a>
 </p>
-
 <!--
 **ali-anwar1/ali-anwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
