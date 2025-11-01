@@ -1,9 +1,9 @@
 ## Welcome to my Profile
 
 ## 👋 About Me
-I’m Full-Stack Web Developer with over 9 years of professional experience, working with different languages such Python, JavaScript/TypeScript and PHP.
+I’m language agnostic developer developer with over 9 years of professional experience, working with different languages such Python, JavaScript/TypeScript, Java, Solidity, Golang and PHP.
 
-I’ve developed scalable solutions using frameworks such as FastAPI and Django REST Framework, NestJS, Express, and Koa, as well as Laravel and CodeIgniter (PHP).
+I’ve developed scalable solutions using frameworks such as FastAPI, Django REST Framework, Gin, NestJS, Express, and Koa, as well as Laravel and CodeIgniter (PHP).
 
 On the frontend, I primarily work with NextJs, ReactJs, and ElectronJs, with prior experience in Vue.js (2.x).
 
