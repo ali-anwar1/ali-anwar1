@@ -1,11 +1,11 @@
 ## Welcome to my Profile
 
 ## 👋 About Me
-I’m an AI-aware Full-Stack Web Developer with 9+ years of professional experience, working across Python, Java, JavaScript/TypeScript, Golang, and PHP.
+I’m Full-Stack Web Developer with over 9 years of professional experience, working with different languages such Python, JavaScript/TypeScript and PHP.
 
-I’ve developed scalable solutions using frameworks such as FastAPI and Django REST Framework (Python), Spring Boot (Java), NestJS, Express, and Koa (Node.js), as well as Laravel and CodeIgniter (PHP).
+I’ve developed scalable solutions using frameworks such as FastAPI and Django REST Framework, NestJS, Express, and Koa, as well as Laravel and CodeIgniter (PHP).
 
-On the frontend, I primarily work with Next.js, React, and Electron, with prior experience in Vue.js (2.x).
+On the frontend, I primarily work with NextJs, ReactJs, and ElectronJs, with prior experience in Vue.js (2.x).
 
 I have hands-on experience with both SQL (PostgreSQL, MySQL, MSSQL) and NoSQL (MongoDB, Redis) databases and have built APIs following GraphQL, REST, and SOAP standards.
 
@@ -20,8 +20,7 @@ I have hands-on experience with both SQL (PostgreSQL, MySQL, MSSQL) and NoSQL (M
 
 🚀 Currently, I'm
 - Advancing my skills in Generative AI and Prompt Engineering, experimenting with tools like Cursor
-- Deep diving into Web3 technologies and Solidity
-- Exploring automation ecosystems with n8n, Power Automate, and ServiceNow
+- Deep diving into Web3 technologies such as Solidity and Wallet security
 
 
 ## Let's Connect!
