@@ -8,18 +8,6 @@ I am a results-driven software developer, security researcher and smart contract
 - Deep diving into Web3 technologies such as Solidity, Vyper and Wallet security
 
 
-## Let's Connect!
-I find great joy in connecting with like-minded individuals and sharing insights on the latest in tech. 
-Find me on LinkedIn for a professional chat and collaboration opportunities.
-<p align="center">
-<a href="https://www.linkedin.com/in/ali-anwar-1">
-  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Anwar-blue?style=flat&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://www.upwork.com/freelancers/~016a30e91c70fa7798">
-  <img src="https://img.shields.io/badge/Upwork-Ali%20Anwar-success?style=flat&logo=upwork" alt="Upwork">
-</a>
-</p>
-
 🧠 My Expertise
 - Full-stack development experience in SAAS and PAAS
 - Team management and training
