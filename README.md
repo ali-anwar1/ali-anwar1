@@ -6,17 +6,8 @@ As a security researcher and smart contract developer. I am exploring Vyper and 
 
 On the frontend, I primarily work with NextJs, ReactJs, and ElectronJs, with prior experience in Vue.js (2.x). I have hands-on experience with both SQL (PostgreSQL, MySQL, MSSQL) and NoSQL (MongoDB, Redis) databases and have built APIs following GraphQL, REST, and SOAP standards.
 
-
-🧠 My Expertise
-- Full-stack development with Next.js, React, TypeScript, Node.js, Python (DRF, FastAPI), PHP (Laravel)
-- Database design and optimization with PostgreSQL, MongoDB, and RedisbitMQ
-- Message brokers: Apache Kafka and RabbitMQ
-- Web3: Vyper and Solidity Smart Contract development
-- Building enterprise-grade applications and scalable architectures
-- Business-to-business API integrations and workflow automation
-
 🚀 Currently, I'm
-- Advancing my skills in Generative AI and Prompt Engineering, experimenting with tools like Cursor
+- Advancing my skills in Generative AI and Prompt Engineering, experimenting with tools and IDEs
 - Deep diving into Web3 technologies such as Solidity and Wallet security
 
 
@@ -31,6 +22,18 @@ Find me on LinkedIn for a professional chat and collaboration opportunities.
   <img src="https://img.shields.io/badge/Upwork-Ali%20Anwar-success?style=flat&logo=upwork" alt="Upwork">
 </a>
 </p>
+
+🧠 My Expertise
+- Full-stack development with Next.js, React, TypeScript, Node.js, Python (DRF, FastAPI), PHP (Laravel)
+- Building enterprise-grade applications and scalable architectures
+- Business-to-business API integrations and workflow automation
+
+
+# Past working experience with difference technologies 
+
+## Web3
+- Vyper
+- Solidity
 
 ## ORMs Libraries:
 - ObjectionJs 
