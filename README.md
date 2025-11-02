@@ -32,14 +32,63 @@ Find me on LinkedIn for a professional chat and collaboration opportunities.
 </a>
 </p>
 
-## Libraries:
-ObjectionJs, PrismaJs, TypeORM, Tailwind CSS, Material UI, Semantic UI, Styled Components, SCSS, Redux Tool Kit, Gantt Charts and Apollo Client
-APIs & Data Handling:
-REST APIs, GraphQL, SOAP, RPC,  Jsonwebtokens, Oauth, Social Logins, Open API (Swagger), Firebase, Postman, MySQL, MariaDB, PostgreSQL, MSSQL, MongoDB, Redis,  Apache Kafka, RabbitMQ, Websockets and ELK Stack
+## ORMs Libraries:
+- ObjectionJs 
+- PrismaJs
+- TypeORM
+- Eloquent ORM
+
+## UI and State Management Libraries:
+- Tailwind CSS
+- Material UI
+- Semantic UI
+- Styled Components
+- SCSS 
+- Redux Tool Kit
+- Gantt Charts
+- Data Tables
+- Apollo Client
+
+## APIs & Data Handling:
+- REST APIs 
+- GraphQL 
+- SOAP 
+- RPC
+
+## Security 
+Jsonwebtokens, Oauth, Social Logins, 
+
+## API Documentation
+Open API (Swagger), Postman and PRD Writing
+
+## Databases
+- MySQL
+- MariaDB 
+- PostgreSQL 
+- MSSQL 
+- MongoDB
+- Redis 
+- Firebase 
+
+## Message Brokers
+- Apache Kafka
+- RabbitMQ, 
+
+## Logging and Monitoring
+- ELK Stack
+- Senitry 
+
+## Realtime Communication
+
+- Websockets
+-  Long Pllling
+
 ## Tools & Platforms:
-Git (Azure Devops, Github, Bitbucket and Gitlab), GitHub Actions, Confluence,  Docker, Heroku, Netlify, Sentry, AWS and GCP
-Testing & Development:
+Git (Azure Devops, Github, Bitbucket and Gitlab), GitHub Actions, Confluence,  Docker, Heroku, Netlify, AWS and GCP
+
+## Testing & Development:
 Test-driven development (Mocha, Jest, Vitest, React Testing Library,  Detox for React Native)
+
 ## API Integration
 Open AI (Assistant API, Text to Speech and Speech to Text)
 Google AI ( Text to Speech AI and Turn Speech into Text using Google AI)
