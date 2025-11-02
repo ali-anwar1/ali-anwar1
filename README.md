@@ -31,10 +31,8 @@ Find me on LinkedIn for a professional chat and collaboration opportunities.
   <img src="https://img.shields.io/badge/Upwork-Ali%20Anwar-success?style=flat&logo=upwork" alt="Upwork">
 </a>
 </p>
-<!--
-**ali-anwar1/ali-anwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Libraries:
+## Libraries:
 ObjectionJs, PrismaJs, TypeORM, Tailwind CSS, Material UI, Semantic UI, Styled Components, SCSS, Redux Tool Kit, Gantt Charts and Apollo Client
 APIs & Data Handling:
 REST APIs, GraphQL, SOAP, RPC,  Jsonwebtokens, Oauth, Social Logins, Open API (Swagger), Firebase, Postman, MySQL, MariaDB, PostgreSQL, MSSQL, MongoDB, Redis,  Apache Kafka, RabbitMQ, Websockets and ELK Stack
