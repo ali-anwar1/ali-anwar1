@@ -15,7 +15,7 @@ I am a results-driven software developer, security researcher and smart contract
 - Business-to-business API integrations and workflow automation
 
 
-# Past working experience with difference technologies 
+# Tech Stacks
 
 ### Frontend Frameworks 
 - Next.js
