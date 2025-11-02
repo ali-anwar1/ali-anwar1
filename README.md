@@ -1,13 +1,10 @@
 ## Welcome to my Profile
 
 ## 👋 About Me
-I’m security researcher, smart contract developer with over 9 years of professional experience in fullstack web and mobile development, working with different languages such Python, JavaScript/TypeScript, Java, Solidity, Golang and PHP.
+I am a results-driven Software Engineer with 9+ years of experience delivering scalable, high-performance web applications, large distributed systems, microservices architectures, multitenant applications, and asynchronous software solutions in agile environments. I primarily work with JavaScript, TypeScript, and Python based technologies, and have a strong foundation in PHP, which I began my career with. I am a language-agnostic engineer and open to working with additional languages such as Java, Golang, C#, and Rust. I’ve developed scalable solutions using frameworks such as FastAPI, Django REST Framework, Gin, NestJS, Express, and Koa, as well as Laravel and CodeIgniter (PHP).
+As a security researcher and smart contract developer. I am exploring Vyper and Solidity Smart Contract and practicing them.
 
-I’ve developed scalable solutions using frameworks such as FastAPI, Django REST Framework, Gin, NestJS, Express, and Koa, as well as Laravel and CodeIgniter (PHP).
-
-On the frontend, I primarily work with NextJs, ReactJs, and ElectronJs, with prior experience in Vue.js (2.x).
-
-I have hands-on experience with both SQL (PostgreSQL, MySQL, MSSQL) and NoSQL (MongoDB, Redis) databases and have built APIs following GraphQL, REST, and SOAP standards.
+On the frontend, I primarily work with NextJs, ReactJs, and ElectronJs, with prior experience in Vue.js (2.x). I have hands-on experience with both SQL (PostgreSQL, MySQL, MSSQL) and NoSQL (MongoDB, Redis) databases and have built APIs following GraphQL, REST, and SOAP standards.
 
 
 🧠 My Expertise
