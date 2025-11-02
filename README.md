@@ -84,7 +84,7 @@ Open API (Swagger), Postman and PRD Writing
 ## Realtime Communication
 
 - Websockets
--  Long Pllling
+-  Long Polling
 
 ## Tools & Platforms:
 Git (Azure Devops, Github, Bitbucket and Gitlab), GitHub Actions, Confluence,  Docker, Heroku, Netlify, AWS and GCP
