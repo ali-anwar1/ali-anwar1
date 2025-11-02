@@ -55,8 +55,11 @@ Find me on LinkedIn for a professional chat and collaboration opportunities.
 - SOAP 
 - RPC
 
-## Security 
-Jsonwebtokens, Oauth, Social Logins, 
+## Security, Authentication and Authorization
+- Jsonwebtokens
+- Keycloak
+- Oauth2
+- Social Logins
 
 ## API Documentation
 Open API (Swagger), Postman and PRD Writing
