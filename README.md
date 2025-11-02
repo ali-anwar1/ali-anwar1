@@ -95,16 +95,31 @@ Git (Azure Devops, Github, Bitbucket and Gitlab), GitHub Actions, Confluence,  D
 ## Testing & Development:
 Test-driven development (Mocha, Jest, Vitest, React Testing Library,  Detox for React Native)
 
-## API Integration
-Open AI (Assistant API, Text to Speech and Speech to Text)
-Google AI ( Text to Speech AI and Turn Speech into Text using Google AI)
-Google APIs (Geolocation API, People API,  Google Analytics Data API and Google Places API)
-Microsoft (Power BI and Power Automate)
-Amazon Web Services  (S3, SES, SNS, Cognito, Rekognition)
-Servicenow (Built in APIs and Scripted REST APIs)
-Travel Industry specific:  Viator Partner API (2.0) , Feefo API and SiteMinder APIs (SOAP) 
-OpenStreetMap (OSM) and Openrouteservice (ORS)
-Others: Stripe (Charge, Stripe Hooks, Refunds), Twilio and Zapier (for document automation)
+### API Integration
+- Open AI (Assistant API, Text to Speech and Speech to Text)
+- Google AI ( Text to Speech AI and Turn Speech into Text using Google AI)
+- Google APIs (Geolocation API, People API,  Google Analytics Data API and Google Places API)
+- Microsoft (Power BI and Power Automate)
+- Amazon Web Services  (S3, SES, SNS, Cognito, Rekognition)
+- Servicenow (Built in APIs and Scripted REST APIs)
+- Travel Industry specific:  Viator Partner API (2.0) , Feefo API and SiteMinder APIs (SOAP) 
+- OpenStreetMap (OSM) and Openrouteservice (ORS)
+- Stripe (Charge, Stripe Hooks, Refunds), 
+- Twilio 
+- Zapier (for document automation)
+
+
+## Let's Connect!
+I find great joy in connecting with like-minded individuals and sharing insights on the latest in tech. 
+Find me on LinkedIn for a professional chat and collaboration opportunities.
+<p align="center">
+<a href="https://www.linkedin.com/in/ali-anwar-1">
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Anwar-blue?style=flat&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://www.upwork.com/freelancers/~016a30e91c70fa7798">
+  <img src="https://img.shields.io/badge/Upwork-Ali%20Anwar-success?style=flat&logo=upwork" alt="Upwork">
+</a>
+</p>
 
 <!--
 ## 😀 My GitHub Stats
