@@ -1,117 +1,57 @@
-## Welcome to my Profile
+# 👋 Hi, I'm Ali  
 
-## 👋 About Me
-I am a results-driven software developer, security researcher and smart contract developer with 9+ years of experience delivering scalable, high-performance web applications, large distributed systems, microservices architectures, multitenant applications, and asynchronous software solutions in agile environments. I primarily work with JavaScript, TypeScript, and Python based technologies, and have a strong foundation in PHP, which I began my career with. I am a language-agnostic engineer and open to working with additional languages such as Java, Golang, C#, and Rust. I’ve developed scalable solutions using frameworks such as FastAPI, Django REST Framework, Gin, NestJS, Express, and Koa, as well as Laravel and CodeIgniter (PHP).
+### Senior Backend & Systems Engineer | Payments • POS • Distributed Architectures
 
-🚀 Currently, I'm
-- Advancing my skills in Generative AI and Prompt Engineering, experimenting with tools and IDEs
-- Deep diving into Web3 technologies such as Solidity, Vyper and Wallet security
+I’m a software engineer with 10+ years of experience designing and scaling **revenue-critical retail and restaurant systems**, including POS, MPOS, KDS, kiosk platforms, and payment integrations.
 
+## 🏗 Architecture & System Design
 
-🧠 My Expertise
-- Full-stack development experience in SAAS and PAAS
-- Team management and training
-- Building enterprise-grade applications and scalable architectures
-- Business-to-business API integrations and workflow automation
+My expertise lies in designing high-volume, transaction-heavy systems:
 
+- Multi-terminal & multi-location order flows  
+- Offline-first architecture & device synchronization  
+- Event-driven and asynchronous systems (Kafka, RabbitMQ)  
+- Idempotent payment processing & reconciliation logic  
+- Multi-tenant SaaS platforms  
+- Scalable REST & GraphQL APIs  
+- Distributed system fundamentals & consistency patterns  
 
-# Tech Stacks
+## 💳 Payments & Retail Domain
 
-### Frontend Frameworks 
-- Next.js
-- VueJs 
+- POS, MPOS, KDS & kiosk ecosystems  
+- Payment gateway integrations (Stripe, Adyen, webhooks, refunds)  
+- Order lifecycle & inventory workflows  
+- Reporting, analytics & operational dashboards  
+- Secure transaction handling in cloud environments  
 
-### Backend Frame Works
-- ExpressJs
-- NestJs
-- Django
-- Django REST Framework (DRF)
-- FastAPI
-- PHP Laravel
-- Lumen PHP
+## 🌐 Web3 Integration
 
-### APIs & Data Handling:
-- REST APIs 
-- GraphQL 
-- SOAP 
-- RPC
+- Solidity & smart contract development  
+- Tokenized loyalty systems  
+- Crypto payment integrations  
+- On-chain / off-chain synchronization  
+- Wallet authentication & blockchain event handling  
 
-### Web3
-- Vyper
-- Solidity
+## 🛠 Core Technologies
 
-### ORMs Libraries:
-- ObjectionJs 
-- PrismaJs
-- TypeORM
-- Eloquent ORM
+**Backend:** Node.js (NestJS, Express), Python (FastAPI, Django), PHP (Laravel)  
+**Frontend:** Next.js, Vue.js, React  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**Messaging:** Kafka, RabbitMQ  
+**Cloud & DevOps:** Docker, GitHub Actions, AWS, GCP  
+**Security:** JWT, OAuth2, RBAC, secure API design  
 
-### UI and State Management Libraries:
-- ReactJs
-- Tailwind CSS
-- Material UI
-- Semantic UI
-- Styled Components
-- SCSS 
-- Redux Tool Kit
-- Gantt Charts
-- Data Tables
-- Apollo Client
+## 🎯 Engineering Principles
 
+- Clean, maintainable architecture  
+- Security-first design  
+- Scalability & performance under load  
+- Business-aligned engineering decisions  
+- Ownership & technical leadership  
 
-### Security, Authentication and Authorization
-- Jsonwebtokens
-- Keycloak
-- Oauth2
-- Social Logins
+---
 
-### API Documentation
-Open API (Swagger), Postman and PRD Writing
-
-### Databases
-- MySQL
-- MariaDB 
-- PostgreSQL 
-- MSSQL 
-- MongoDB
-- Redis 
-- Firebase 
-
-### Message Brokers
-- Apache Kafka
-- RabbitMQ, 
-
-### Logging and Monitoring
-- ELK Stack
-- Senitry 
-
-### Realtime Communication
-- Websockets
-- Long Polling
-
-### Tools & Platforms:
-Git (Azure Devops, Github, Bitbucket and Gitlab), GitHub Actions, Confluence,  Docker, Heroku, Netlify, AWS and GCP
-
-## Testing & Development:
-- Mocha
-- Jest 
-- Vitest
-- React Testing Library
-- Playwright
-- Detox for React Native
-
-### API Integration
-- Open AI | Assistant API, Text to Speech and Speech to Text
-- Google AI | Text to Speech AI and Turn Speech into Text using Google AI)
-- Google APIs | Geolocation API, People API,  Google Analytics Data API and Google Places API
-- OpenStreetMap (OSM) and Openrouteservice (ORS)
-- Amazon Web Services  | S3, SES, SNS, Cognito, Rekognition
-- Servicenow | Built in APIs and Scripted REST APIs
-- Travel Industry specific |  Viator Partner API (2.0) , Feefo API and SiteMinder APIs (SOAP) 
-- Twilio 
-- Microsoft | Power BI and Power Automate
-- Zapier | for document automation
-- Stripe | Charge, Stripe Hooks, Refunds, 
+📫 Open to backend architecture, payment infrastructure, retail tech, and Web3 system design opportunities.
 
 ## Let's Connect!
 I find great joy in connecting with like-minded individuals and sharing insights on the latest in tech. 
